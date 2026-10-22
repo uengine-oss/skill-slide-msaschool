@@ -1,0 +1,13 @@
+{
+  "originalPdf": {
+    "path": "assets/msaschool-original.pdf",
+    "sha256": "af4e0c5350a8521a4eb9e0c85de5fcdfa3cff00d4ba5d6e9c20738b609a986b9",
+    "pages": 44
+  },
+  "editableReference": {
+    "path": "assets/reference.pptx",
+    "sha256": "e007d0712903b39e5a8177029f0b39b83a23ba5ce2ca57d9e29827978eca2c45",
+    "slides": 22
+  },
+  "purpose": "Reusable style conversion, not reusable customer content"
+}

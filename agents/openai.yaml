@@ -1,0 +1,7 @@
+interface:
+  display_name: "MSASchool Purple"
+  short_description: "기존 발표자료를 MSASchool 보라색 슬라이드 스타일로 전환"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-msaschool-purple to convert this presentation to the MSASchool Purple style while preserving its content."
+policy:
+  allow_implicit_invocation: true
